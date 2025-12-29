@@ -1,1 +1,1 @@
-this is a my new python project
+this is my new project
